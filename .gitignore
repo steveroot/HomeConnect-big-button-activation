@@ -1,0 +1,3 @@
+#don't put secrets in repo
+secrets.py
+__pycache__/
